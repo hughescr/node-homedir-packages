@@ -1,12 +1,12 @@
 {
   "name": "crh-homedir-packages",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
     "html2jade": "=0.x",
     "htmllint-cli": "=0.x",
     "jshint": "=2.x",
-    "lazy": "=1.x",
+    "lazy.js": "=0.x",
     "moment": "=2.x",
     "npm-check-updates": "=2.x",
     "teslams": "=1.x",
