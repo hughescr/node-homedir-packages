@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
-    "eslint": "=1.x",
+    "eslint": "=2.x",
     "grunt-cli": "=0.x",
     "html2jade": "=0.x",
     "htmllint-cli": "=0.x",
