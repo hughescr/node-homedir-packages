@@ -1,15 +1,15 @@
 {
   "name": "crh-homedir-packages",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
-    "eslint": "=2.x",
     "grunt-cli": "=0.x",
     "html2jade": "=0.x",
     "htmllint-cli": "=0.x",
     "jshint": "=2.x",
     "lodash": "=4.x",
     "moment": "=2.x",
+    "moment-timezone": "^0.5.1",
     "npm-check-updates": "=2.x",
     "teslams": "=1.x",
     "vtop": "=0.x"
