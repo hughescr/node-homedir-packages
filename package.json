@@ -1,6 +1,6 @@
 {
   "name": "crh-homedir-packages",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
     "grunt-cli": "=0.x",
