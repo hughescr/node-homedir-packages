@@ -11,6 +11,7 @@
     "moment": "=2.x",
     "moment-timezone": "^0.5.1",
     "npm-check-updates": "=2.x",
+    "smoketail": "~0.1.0",
     "teslams": "=1.x",
     "vtop": "=0.x"
   },
