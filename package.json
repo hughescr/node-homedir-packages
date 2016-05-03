@@ -3,11 +3,9 @@
   "version": "1.5.1",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
-    "bower": "^1.7.9",
     "grunt-cli": "^1.x",
     "html2jade": "^0.x",
     "htmllint-cli": "^0.x",
-    "jshint": "^2.x",
     "lodash": "^4.x",
     "moment": "^2.x",
     "moment-timezone": "^0.5.1",
