@@ -3,6 +3,7 @@
   "version": "1.5.1",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "dependencies": {
+    "@hughescr/generator-node-basic": "^1.0.0",
     "generator-ng-fullstack": "^1.8.5",
     "gh": "^1.12.6",
     "grunt-cli": "^1.x",
