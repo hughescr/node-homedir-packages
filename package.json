@@ -1,6 +1,6 @@
 {
   "name": "@hughescr/homedir-packages",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "preversion": "git flow release start $npm_package_version",
