@@ -1,5 +1,5 @@
 {
-  "name": "crh-homedir-packages",
+  "name": "@hughescr/homedir-packages",
   "version": "1.5.2",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
