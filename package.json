@@ -1,5 +1,8 @@
 {
   "name": "@hughescr/homedir-packages",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "1.5.4",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
