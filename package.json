@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "preversion": "git flow release start $npm_package_version",
@@ -12,6 +12,7 @@
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^1.1.1",
     "@hughescr/generator-node-basic": "^1.0.0",
+    "flow-typed": "^2.0.0-beta.6",
     "generator-ng-fullstack": "^1.8.5",
     "gh": "^1.12.6",
     "grunt-cli": "^1.x",
