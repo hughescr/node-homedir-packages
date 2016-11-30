@@ -24,7 +24,6 @@
     "npm-check-updates": "^2.x",
     "serverless": "^1.1.0",
     "smoketail": "^0.1.0",
-    "swagger": "^0.7.5",
     "teslams": "^1.x",
     "vtop": "^0.x",
     "yo": "^1.8.5"
