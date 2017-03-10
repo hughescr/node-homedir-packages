@@ -22,6 +22,7 @@
     "lodash": "^4.x",
     "moment": "^2.x",
     "moment-timezone": "^0.5.11",
+    "newman": "^3.4.3",
     "npm-check-updates": "^2.x",
     "serverless": "^1.6.1",
     "smoketail": "^0.1.0",
