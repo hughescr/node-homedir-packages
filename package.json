@@ -16,7 +16,6 @@
     "flow-typed": "^2.0.0",
     "generator-ng-fullstack": "^1.8.50",
     "gh": "^1.12.8",
-    "grunt-cli": "^1.x",
     "html2jade": "^0.x",
     "htmllint-cli": "^0.x",
     "lodash": "^4.x",
