@@ -7,7 +7,7 @@
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "preversion": "git flow release start $npm_package_version",
-    "postversion": "git commit -m \"Bump package version to $npm_package_version\" package.json; git flow release finish -m $npm_package_version $npm_package_version; git checkout develop; git rebase master"
+    "postversion": "git commit -m \"Bump package version to $npm_package_version\" package.json package-lock.json; git flow release finish -m $npm_package_version $npm_package_version; git checkout develop; git rebase master"
   },
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^1.3.0",
