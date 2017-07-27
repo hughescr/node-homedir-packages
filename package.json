@@ -12,7 +12,7 @@
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^1.3.0",
     "@hughescr/generator-node-basic": "^1.1.0",
-    "flow-typed": "^2.1.2",
+    "flow-typed": "^2.1.5",
     "generator-ng-fullstack": "^1.9.19",
     "gh": "^1.12.8",
     "html2jade": "^0.x",
@@ -20,13 +20,13 @@
     "lodash": "^4.x",
     "moment": "^2.x",
     "moment-timezone": "^0.5.13",
-    "newman": "^3.7.5",
+    "newman": "^3.8.0",
     "npm-check-updates": "^2.12.1",
-    "serverless": "^1.17.0",
+    "serverless": "^1.18.0",
     "smoketail": "^0.1.0",
     "teslams": "^1.x",
     "vtop": "^0.x",
-    "yo": "^1.8.5"
+    "yo": "^2.0.0"
   },
   "author": "Craig Hughes",
   "repository": "hughescr/crh-homedir-packages",
