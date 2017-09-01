@@ -8,6 +8,7 @@
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^2.0.1",
     "@hughescr/generator-node-basic": "^2.0.1",
+    "flow-bin": "^0.54.0",
     "flow-typed": "^2.1.5",
     "gh": "^1.12.8",
     "html2jade": "^0.x",
