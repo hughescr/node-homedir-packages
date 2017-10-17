@@ -1880,11 +1880,11 @@ flagged-respawn@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/flagged-respawn/-/flagged-respawn-0.3.2.tgz#ff191eddcd7088a675b2610fffc976be9b8074b5"
 
-flow-bin@^0.54.0:
-  version "0.54.1"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.54.1.tgz#7101bcccf006dc0652714a8aef0c72078a760510"
+flow-bin@^0.57.3:
+  version "0.57.3"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.57.3.tgz#843fb80a821b6d0c5847f7bb3f42365ffe53b27b"
 
-flow-typed@^2.1.5:
+flow-typed@^2.2.0:
   version "2.2.0"
   resolved "https://registry.yarnpkg.com/flow-typed/-/flow-typed-2.2.0.tgz#1cae742b188888b64b0e96fae8fe25965d723647"
   dependencies:
@@ -3901,7 +3901,7 @@ nested-error-stacks@^1.0.0:
   dependencies:
     inherits "~2.0.1"
 
-newman@^3.8.0:
+newman@^3.8.3:
   version "3.8.3"
   resolved "https://registry.yarnpkg.com/newman/-/newman-3.8.3.tgz#ce507adef42418c13ec11f1349fccd9cfd8b2a26"
   dependencies:
@@ -4028,7 +4028,7 @@ npm-cache-filename@~1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/npm-cache-filename/-/npm-cache-filename-1.0.2.tgz#ded306c5b0bfc870a9e9faf823bc5f283e05ae11"
 
-npm-check-updates@^2.12.1:
+npm-check-updates@^2.13.0:
   version "2.13.0"
   resolved "https://registry.yarnpkg.com/npm-check-updates/-/npm-check-updates-2.13.0.tgz#36a7c1610d9982148100ee08b502aaef773900e3"
   dependencies:
@@ -5519,7 +5519,7 @@ serve-static@~1.10.0:
     parseurl "~1.3.1"
     send "0.13.2"
 
-serverless@^1.19.0:
+serverless@^1.23.0:
   version "1.23.0"
   resolved "https://registry.yarnpkg.com/serverless/-/serverless-1.23.0.tgz#c4063f2ffee5748d2db0d02d585e7869fca80c34"
   dependencies:
