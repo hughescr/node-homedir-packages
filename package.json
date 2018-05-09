@@ -9,7 +9,7 @@
     "@hughescr/generator-aws-lambda": "^2.0.1",
     "@hughescr/generator-node-basic": "^2.0.1",
     "copy-github-labels-cli": "^1.0.0",
-    "flow-bin": "^0.57.3",
+    "flow-bin": "^0.71.0",
     "flow-typed": "^2.2.0",
     "gh": "^1.12.8",
     "html2jade": "^0.x",
