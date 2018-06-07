@@ -558,8 +558,8 @@ braces@^2.3.1:
     to-regex "^3.0.1"
 
 bson@~1.0.4:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.7.tgz#09e42d26c809ab4de09e323ead202d2755ee1650"
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/bson/-/bson-1.0.8.tgz#bcb37b62c7c09c33972377497401e4e63d6ad2ca"
 
 btoa@1.2.1:
   version "1.2.1"
@@ -2026,9 +2026,9 @@ flagged-respawn@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/flagged-respawn/-/flagged-respawn-1.0.0.tgz#4e79ae9b2eb38bf86b3bb56bf3e0a56aa5fcabd7"
 
-flow-bin@^0.73.0:
-  version "0.73.0"
-  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.73.0.tgz#da1b90a02b0ef9c439f068c2fc14968db83be425"
+flow-bin@^0.74.0:
+  version "0.74.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.74.0.tgz#8017bb00efb37cbe8d81fbb7f464038bde06adc9"
 
 flow-typed@^2.2.0:
   version "2.4.0"
