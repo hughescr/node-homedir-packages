@@ -9,6 +9,7 @@
     "@hughescr/generator-aws-lambda": "^2.0.1",
     "@hughescr/generator-node-basic": "^2.0.1",
     "copy-github-labels-cli": "^1.0.0",
+    "fast-cli": "^2.3.0",
     "flow-bin": "^0.89.0",
     "flow-typed": "^2.5.1",
     "gh": "^1.13.5",
