@@ -10,7 +10,7 @@
     "@hughescr/generator-node-basic": "^2.0.1",
     "copy-github-labels-cli": "^1.0.0",
     "fast-cli": "^2.3.0",
-    "flow-bin": "^0.104.0",
+    "flow-bin": "^0.105.2",
     "flow-typed": "^2.6.1",
     "gh": "^1.17.5",
     "htmllint-cli": "^0.x",
