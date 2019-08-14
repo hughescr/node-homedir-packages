@@ -3,14 +3,18 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.14.1",
+  "version": "1.14.2",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postversion": "git commit -m \"Bump package version to $npm_package_version\" package.json; git flow release start $npm_package_version; git flow release finish -m $npm_package_version $npm_package_version; git checkout develop; git merge master"
+  },
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^2.0.1",
     "@hughescr/generator-node-basic": "^2.0.1",
     "copy-github-labels-cli": "^1.0.0",
     "fast-cli": "^2.3.0",
-    "flow-bin": "^0.104.0",
+    "flow-bin": "^0.105.2",
     "flow-typed": "^2.6.1",
     "gh": "^1.17.5",
     "htmllint-cli": "^0.x",
