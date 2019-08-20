@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.15.0",
+  "version": "1.16.0",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -22,6 +22,7 @@
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.26",
     "smoketail": "^0.2.2",
+    "teslajs": "^4.3.11",
     "vtop": "^0.6.1",
     "yo": "^3.1.0"
   },
