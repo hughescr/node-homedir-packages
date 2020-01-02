@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.16.0",
+  "version": "1.17.0",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
