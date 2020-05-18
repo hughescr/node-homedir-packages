@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.17.3",
+  "version": "1.17.4",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,14 +12,14 @@
   "dependencies": {
     "@hughescr/generator-aws-lambda": "^2.0.1",
     "@hughescr/generator-node-basic": "^2.0.1",
-    "corona-cli": "^5.1.1",
+    "corona-cli": "^5.3.1",
     "fast-cli": "^2.3.0",
-    "flow-bin": "^0.124.0",
+    "flow-bin": "^0.125.1",
     "flow-typed": "^3.1.0",
     "htmllint-cli": "^0.x",
     "lodash": "^4.17.15",
     "moment": "^2.25.3",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.31",
     "smoketail": "^0.2.2",
     "teslajs": "^4.7.7",
     "vtop": "^0.6.1",
