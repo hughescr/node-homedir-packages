@@ -10,14 +10,14 @@
     "postversion": "git commit -m \"Bump package version to $npm_package_version\" package.json; git flow release start $npm_package_version; git flow release finish -m $npm_package_version $npm_package_version; git checkout develop; git merge master"
   },
   "dependencies": {
-    "corona-cli": "^5.3.2",
-    "fast-cli": "^2.3.0",
+    "corona-cli": "^5.3.3",
+    "fast-cli": "^2.4.0",
     "htmllint-cli": "^0.x",
-    "lodash": "^4.17.19",
-    "moment": "^2.27.0",
-    "moment-timezone": "^0.5.31",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32",
     "smoketail": "^0.2.2",
-    "teslajs": "^4.7.8",
+    "teslajs": "^4.9.7",
     "vtop": "^0.6.1"
   },
   "author": "Craig Hughes",
