@@ -11,8 +11,6 @@
   },
   "dependencies": {
     "corona-cli": "^5.3.3",
-    "fast-cli": "^2.4.0",
-    "htmllint-cli": "^0.x",
     "lodash": "^4.17.20",
     "moment": "^2.29.1",
     "moment-timezone": "^0.5.32",
