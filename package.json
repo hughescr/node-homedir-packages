@@ -12,7 +12,6 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "luxon": "^2.0.2",
-    "serverless": "^2.60.0",
     "smoketail": "^0.2.2",
     "teslajs": "^4.9.11",
     "vtop": "^0.6.1"
