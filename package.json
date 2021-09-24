@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.19.1",
+  "version": "2.0.0",
   "description": "Things Craig has installed under his user account: CLI tools and common libs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,11 +11,9 @@
   },
   "dependencies": {
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
-    "moment-timezone": "^0.5.33",
-    "serverless": "^2.45.1",
+    "luxon": "^2.0.2",
     "smoketail": "^0.2.2",
-    "teslajs": "^4.9.9",
+    "teslajs": "^4.9.11",
     "vtop": "^0.6.1"
   },
   "author": "Craig Hughes",
