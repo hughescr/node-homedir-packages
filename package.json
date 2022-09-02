@@ -13,7 +13,6 @@
     "lodash": "^4.17.21",
     "luxon": "^3.0.3",
     "smoketail": "^0.2.2",
-    "teslajs": "^4.10.0",
     "vtop": "^0.6.1"
   },
   "author": "Craig Hughes",
