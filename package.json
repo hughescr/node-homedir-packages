@@ -10,8 +10,8 @@
     "postversion": "git commit -m \"Bump package version to $npm_package_version\" package.json; git flow release start $npm_package_version; git flow release finish -m $npm_package_version $npm_package_version; git checkout develop; git merge master"
   },
   "dependencies": {
-    "lodash": "^4.17.21",
-    "luxon": "^3.0.3",
+    "lodash": "^4.17.23",
+    "luxon": "^3.7.2",
     "smoketail": "^0.2.2",
     "vtop": "^0.6.1"
   },
